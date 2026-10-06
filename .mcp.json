@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "manjangilchi": { "type": "http", "url": "https://manjangilchi.com/mcp" }
+  }
+}
